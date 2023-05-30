@@ -1,0 +1,4 @@
+jupyterlab
+pyserial
+tqdm
+ipywidgets
